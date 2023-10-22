@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/originals/bd/e9/7a/bde97a2bb426f625fc9810ab662b74b3.gif)](https://johnnguyenportfolio.vercel.app/) 
 <h1 align="center">Hi 👋, I'm John Nguyen</h1>
 <h3 align="center">A passionate frontend developer from Georgia.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
