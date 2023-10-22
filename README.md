@@ -1,5 +1,5 @@
 
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)](https://johnnguyenportfolio.vercel.app/) 
+[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://johnnguyenportfolio.vercel.app/) 
 
 <h1 align="center">Hi 👋, I'm John Nguyen</h1>
 <h3 align="center">A passionate frontend developer from Georgia.</h3>
