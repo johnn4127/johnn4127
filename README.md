@@ -1,8 +1,8 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://johnnguyenportfolio.vercel.app/">
-        <img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead">
-    </a>
-</div>
+<p align="center">
+  <a href="https://johnnguyenportfolio.vercel.app/">
+    <img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead">
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm John Nguyen</h1>
 <h3 align="center">A passionate frontend developer from Georgia.</h3>
