@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **game development**
 
-- 👨‍💻 All of my projects are available at [https://johnnguyenportfolio.vercel.app/](https://johnnguyenportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at https://johnnguyenportfolio.vercel.app/](https://johnnguyenportfolio.vercel.app/
 
 - 💬 Ask me about **SQL && JavaScript**
 
